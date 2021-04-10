@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/GeanCarlosBJJ/InstragramPROJ.DIO">
     <img 
-         src='/img/INTERFACE.png'
+         src='/img/capa.png'
          alt="Interface Instagram" 
     />
   </a>
