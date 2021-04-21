@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/GeanCarlosBJJ/InstragramPROJ.DIO">
+  <a href="https://github.com/GeancarlosDEV/InstragramPROJ.DIO">
     <img 
          src='/img/capa.png'
          alt="Interface Instagram" 
